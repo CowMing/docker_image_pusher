@@ -1,1 +1,1 @@
-golang:1.22.4-alpine3.20
+k8s.gcr.io/coredns/coredns:v1.8.6
