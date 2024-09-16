@@ -1,1 +1,1 @@
-golang:1.23-nanoserver
+golang:1.23-alpine
